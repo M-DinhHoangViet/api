@@ -1,7 +1,7 @@
-# Lichess API doc & examples
+# LiVariants API doc & examples
 
 - [API documentation](https://livariants.org/api)
-- [OAuth app example](https://github.com/lichess-org/api/tree/master/example/oauth-authorization-code)
+- [OAuth app example](https://github.com/livariants-org/api/tree/master/example/oauth-authorization-code)
 
 ## Contribute
 

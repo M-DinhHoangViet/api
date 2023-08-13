@@ -1,9 +1,9 @@
 const fetch = require('node-fetch');
 
-/* Create your personal token on https://lichess.org/account/oauth/token */
+/* Create your personal token on https://livariants.org/account/oauth/token */
 const personalToken = '';
 
-fetch('https://lichess.org/api/account', {
+fetch('https://livariants.org/api/account', {
     headers: {
       'Authorization': 'Bearer ' + personalToken
     }

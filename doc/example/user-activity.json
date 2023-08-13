@@ -148,13 +148,13 @@
     },
     "teams": [
       {
-        "url": "/team/lichess-stars",
-        "name": "Lichess Stars"
+        "url": "/team/livariants-stars",
+        "name": "LiVariants Stars"
       }
     ],
     "posts": [
       {
-        "topicUrl": "/forum/lichess-feedback/new-study-visibility-mode-unlisted",
+        "topicUrl": "/forum/livariants-feedback/new-study-visibility-mode-unlisted",
         "topicName": "New study visibility mode: unlisted",
         "posts": [
           {
@@ -168,8 +168,8 @@
         ]
       },
       {
-        "topicUrl": "/forum/general-chess-discussion/yeah-but-lichess-is-full-of-commies",
-        "topicName": "\"Yeah, but lichess is full of commies\"",
+        "topicUrl": "/forum/general-chess-discussion/yeah-but-livariants-is-full-of-commies",
+        "topicName": "\"Yeah, but livariants is full of commies\"",
         "posts": [
           {
             "url": "/forum/redirect/post/eaFQzRQ2",
@@ -177,7 +177,7 @@
           },
           {
             "url": "/forum/redirect/post/G35OInLP",
-            "text": "@NeverBeenTimid Quite simply, not everything has to be about money...\r\n\r\nIt should go without saying; but in case it doesn't, we have lichess to remind us.\r\n\r\nI want to believe that exploiting workers and lying to consumers is not the only way to build something. I want to show that a community, bound by a common passion for chess, with a touch of humanism, is capable of building great things. I reject investment, paywalls, advertisements, proprietary software, user tracking: these things are no"
+            "text": "@NeverBeenTimid Quite simply, not everything has to be about money...\r\n\r\nIt should go without saying; but in case it doesn't, we have livariants to remind us.\r\n\r\nI want to believe that exploiting workers and lying to consumers is not the only way to build something. I want to show that a community, bound by a common passion for chess, with a touch of humanism, is capable of building great things. I reject investment, paywalls, advertisements, proprietary software, user tracking: these things are no"
           }
         ]
       }
@@ -281,7 +281,7 @@
     },
     "posts": [
       {
-        "topicUrl": "/forum/lichess-feedback/study-moves-not-showing-",
+        "topicUrl": "/forum/livariants-feedback/study-moves-not-showing-",
         "topicName": "''Study'' moves not showing ?",
         "posts": [
           {
@@ -389,7 +389,7 @@
     },
     "posts": [
       {
-        "topicUrl": "/forum/lichess-feedback/bad-changes-to-gameboard-canvas-on-mobile",
+        "topicUrl": "/forum/livariants-feedback/bad-changes-to-gameboard-canvas-on-mobile",
         "topicName": "Bad changes to gameboard canvas on mobile",
         "posts": [
           {
@@ -488,7 +488,7 @@
     },
     "posts": [
       {
-        "topicUrl": "/forum/lichess-feedback/keyboard-input-changed-today-maybe-a-bug",
+        "topicUrl": "/forum/livariants-feedback/keyboard-input-changed-today-maybe-a-bug",
         "topicName": "Keyboard input changed today, maybe a bug.",
         "posts": [
           {
@@ -498,7 +498,7 @@
         ]
       },
       {
-        "topicUrl": "/forum/lichess-feedback/learnpractice-stopped-saving-my-progress",
+        "topicUrl": "/forum/livariants-feedback/learnpractice-stopped-saving-my-progress",
         "topicName": "Learn/Practice stopped saving my progress",
         "posts": [
           {
@@ -512,16 +512,16 @@
         ]
       },
       {
-        "topicUrl": "/forum/lichess-feedback/help-translate-lichess",
-        "topicName": "Help translate Lichess",
+        "topicUrl": "/forum/livariants-feedback/help-translate-livariants",
+        "topicName": "Help translate LiVariants",
         "posts": [
           {
             "url": "/forum/redirect/post/8dzjnLRV",
-            "text": "Are you a native speaker of a non-english language? You can help making lichess better! No technical skills required.\r\n\r\nHead to https://crowdin.com/project/lichess and start suggesting translations! You can also vote for your favourite translations.\r\n\r\nlichess is a non-profit association, and the result of volunteer collaboration of the Internet chess community. We believe that together, we can achieve great things - for chess, for humanity, for freedom! And now we need your help, more than eve"
+            "text": "Are you a native speaker of a non-english language? You can help making livariants better! No technical skills required.\r\n\r\nHead to https://crowdin.com/project/livariants and start suggesting translations! You can also vote for your favourite translations.\r\n\r\nlichess is a non-profit association, and the result of volunteer collaboration of the Internet chess community. We believe that together, we can achieve great things - for chess, for humanity, for freedom! And now we need your help, more than eve"
           },
           {
             "url": "/forum/redirect/post/omISXRjU",
-            "text": "@Wolfram_EP Thank you for stepping in.\r\n\r\nFor now, we chose not to translate variant names such as Bullet, Blitz, Chess960, Crazyhouse, etc. They're like proper nouns. We might change our minds about it later on, but for now they're not supposed to be translated.\r\n\r\nI think lichess has good support for russian pluralization, can you confirm? https://github.com/ornicar/lila/blob/40e2dfbb18735f3f55dd796d5f8017ea39cb8f10/modules/i18n/src/main/I18nQuantity.scala#L44-L50\r\n\r\nHowever crowdin got it wro"
+            "text": "@Wolfram_EP Thank you for stepping in.\r\n\r\nFor now, we chose not to translate variant names such as Bullet, Blitz, Chess960, Crazyhouse, etc. They're like proper nouns. We might change our minds about it later on, but for now they're not supposed to be translated.\r\n\r\nI think livariants has good support for russian pluralization, can you confirm? https://github.com/ornicar/lila/blob/40e2dfbb18735f3f55dd796d5f8017ea39cb8f10/modules/i18n/src/main/I18nQuantity.scala#L44-L50\r\n\r\nHowever crowdin got it wro"
           },
           {
             "url": "/forum/redirect/post/jG6jM9qO",
@@ -529,7 +529,7 @@
           },
           {
             "url": "/forum/redirect/post/Xpcdpm2Y",
-            "text": "Ah, thank you, that helps.\r\n\r\nI changed lichess code to match crowdin: https://github.com/ornicar/lila/commit/7a1cbabe5fc27e779c0ab419b3a6bd85fb2bd76b\r\n\r\nAbout transliteration: yes, you're right. I now realize that, for instance, in french, we transliterate russian city names.\r\nDo you think the word \"Lichess\" should be transliterated as well?\r\n\r\nWould you like to be lichess russian translation manager on crowdin? It's quite a big responsibility, because we have thousands of russian speaking play"
+            "text": "Ah, thank you, that helps.\r\n\r\nI changed livariants code to match crowdin: https://github.com/ornicar/lila/commit/7a1cbabe5fc27e779c0ab419b3a6bd85fb2bd76b\r\n\r\nAbout transliteration: yes, you're right. I now realize that, for instance, in french, we transliterate russian city names.\r\nDo you think the word \"LiVariants\" should be transliterated as well?\r\n\r\nWould you like to be livariants russian translation manager on crowdin? It's quite a big responsibility, because we have thousands of russian speaking play"
           },
           {
             "url": "/forum/redirect/post/WiILZb1M",

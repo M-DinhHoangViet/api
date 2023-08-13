@@ -22,11 +22,11 @@ export const config = {
       scopes: ['board:play']
     },
     server: {
-      tokenHost: 'https://oauth.lichess.org',
+      tokenHost: 'https://oauth.livariants.org',
       authorizePath: '/oauth/authorize',
       tokenPath: '/oauth',
       url: {
-        userInfo: 'https://lichess.org/api/account'
+        userInfo: 'https://livariants.org/api/account'
       }
     }
   }
